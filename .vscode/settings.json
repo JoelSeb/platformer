@@ -1,0 +1,19 @@
+{
+  "java.project.referencedLibraries": [
+    "lib/**/*.jar",
+    "game/lib/jars/ibxm.jar",
+    "game/lib/jars/jinput.jar",
+    "game/lib/jars/jnlp.jar",
+    "game/lib/jars/jogg-0.0.7.jar",
+    "game/lib/jars/jorbis-0.0.15.jar",
+    "game/lib/jars/lwjgl.jar",
+    "game/lib/jars/lwjgl_util.jar",
+    "game/lib/jars/lwjgl_util_applet.jar",
+    "game/lib/jars/natives-linux.jar",
+    "game/lib/jars/natives-mac.jar",
+    "game/lib/jars/natives-windows.jar",
+    "game/lib/jars/slick.jar",
+    "game/lib/jars/slick-examples.jar",
+    "game/lib/jars/tinylinepp.jar"
+  ]
+}
